@@ -1,0 +1,17 @@
+{
+  "name": "trupu-static",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "serve": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0"
+  },
+  "devDependencies": {
+    "gridsome-plugin-pug": "^0.0.3",
+    "gridsome-plugin-tailwindcss": "^3.0.1",
+    "pug": "^3.0.0"
+  }
+}
